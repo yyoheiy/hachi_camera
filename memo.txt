@@ -1,0 +1,4 @@
+#ネットワークカメラ保存画像の削除
+
+main.py: camera path指定
+ delfiles.py: 2か月前のファイルすべて削除
